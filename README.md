@@ -102,9 +102,9 @@ bun run dev
 # Build for production
 bun run build
 ```
-##OR
+## OR
 
-#Direct link to use : paw-routine-app.vercel.app
+# Direct link to use : paw-routine-app.vercel.app
 
 ## 💾 Data Structure
 
