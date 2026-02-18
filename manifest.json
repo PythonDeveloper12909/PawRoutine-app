@@ -1,0 +1,10 @@
+{
+  "name": "PawRoutine",
+  "short_name": "PawRoutine",
+  "description": "Pet routine tracking and health monitoring app",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFF5F7",
+  "theme_color": "#FF6B9D",
+  "icons": []
+}
